@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          By bla bla there
+          I was changed on the feature brach
         </p>
         <a
           className="App-link"
